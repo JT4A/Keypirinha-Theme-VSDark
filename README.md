@@ -13,4 +13,4 @@ Copy the contents of `vscode.ini` into `Keypirinha.ini` it should look like this
     theme=VSCode
     (...)
     [VSCode]
-    (contents of`vscode.ini`here)
+    (contents of "vscode.ini" here)
